@@ -1,7 +1,7 @@
 - 👋  Hi! 
 - We are @CardanoFAITH Stake Pool
 - Ticker: FAITH
-- We believe that Cardano will change the world, for good. Join us as we support Christianity by funding projects that promote charity, freedom, human dignity, and the sanctity of life.
+- We are on a mission to bring the power of Cardano to Christianity. Help us bring this groundbreaking technology to the 2.5 Billion Christians across the globe.
 
 <!---
 CardanoFAITH/CardanoFAITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
